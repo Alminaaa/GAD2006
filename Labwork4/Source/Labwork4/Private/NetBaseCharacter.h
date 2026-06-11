@@ -2,7 +2,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
-#include "Runtime/Engine/Classes/Engine/DataTable.h"
+#include "Engine/DataTable.h"
 #include "NetGameInstance.h"
 #include "Net/UnrealNetwork.h"
 #include "NetBaseCharacter.generated.h"
